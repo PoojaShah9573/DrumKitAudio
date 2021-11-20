@@ -71,6 +71,7 @@ function makeSound(key)
       break;
 
     default:
+      alert("You pressed the wrong key :)");
       console.log(buttonInnerHTML);
 
   }
